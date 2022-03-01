@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Intimation by the town-clerk of Edinburgh, to the whole burgesses of the said burgh, concerning the election of their commissioners to the meeting of the estates of this kingdom, which is to be holden the 14th day of March 1689 years.</title>
+            <author>Edinburgh (Scotland). Town Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03805</idno>
+            <idno type="STC">Wing I274</idno>
+            <idno type="STC">ESTC R178567</idno>
+            <idno type="EEBO-CITATION">52528835</idno>
+            <idno type="OCLC">ocm 52528835</idno>
+            <idno type="VID">178815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03805)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178815)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2771:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Intimation by the town-clerk of Edinburgh, to the whole burgesses of the said burgh, concerning the election of their commissioners to the meeting of the estates of this kingdom, which is to be holden the 14th day of March 1689 years.</title>
+                  <author>Edinburgh (Scotland). Town Council.</author>
+                  <author>Rocheid, Ja.</author>
+                  <author>William, III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Signed at end: Ja. Rocheid Cls.</note>
+                  <note>In response to a letter of William of Orange, dated 5 Feb. 1688/9. This letter printed on verso.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elections --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1689-1745 --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:178815:1"/>
+            <pb facs="tcp:178815:1" rendition="simple:additions"/>
+            <opener>
+               <dateline>EDINBURGH, <date>The 20 Day of February 1689 Years.</date>
+               </dateline>
+            </opener>
+            <argument>
+               <p>INTIMATION By the Town-Clerk of <hi>Edinburgh,</hi> to the whole Bur<g ref="char:EOLhyphen"/>geſſes of the ſaid Burgh, concerning the Election of their Commiſſioners to the Meeting of the Eſtates of this Kingdom, which is to be Holden <date>the 14<hi>th</hi> Day of <hi>March</hi> 1689 Years.</date>
+               </p>
+            </argument>
+            <p>WHereas by an Letter from his Highneſs the Prince of <hi>Orange</hi> given at <hi>St. James's</hi> the 5th day of <hi>February</hi> in the year of our Lord 1688/9, direct to the Town-Clerk of <hi>Edinburgh;</hi> Requiring him upon the Receipt of His Highneſs Letter to make publick Intimation of the famine on the firſt Mercat Day at the Croſs of the Royal Burgh of <hi>Edinburgh,</hi> in the uſual manner; and to appoint a Day, to be at leaſt Five Days after the ſaid Intimation, for the whole Burgeſſes to Meet and Chuſe their Commiſſioners for the ſaid Meeting of the Eſtates at <hi>Edinburgh</hi> the 14th Day of <hi>March</hi> next, and that a Copy of His Highneſs Letter, and of the Clerks Intimation, containing the Day of Election, be left Affixt on the ſaid Croſs, the Burgeſſes and Commiſſioners being Proteſtants, without any other Exception or Limitation, and that the ſaid Clerk report his Diligence therein to the ſaid Meeting, as is fully contained in His Highneſs Letter. In Obedience, and in Purſuance of the Order of His Highneſs Letter, Theſe are to make publick Intimation to the whole Burgeſſes of the Royal-Burgh of <hi>Edinburgh</hi> being Proteſtants, that they Meet and Conveen within the Parlia<g ref="char:EOLhyphen"/>ment-Houſe, upon the Twenty Eight Day of <hi>February</hi> inſtant, at Eight of the Clock of the Morning, for Electing and Chooſing their Commiſſioners to the ſaid Meeting of the Eſtates; And likewiſe as previous to the more order<g ref="char:EOLhyphen"/>ly carrying on of the ſaid Election, and for preventing Confuſion, and that none may have Vote in the ſame but ſuch as are Proteſtants, and has Intereſt by being Burgeſſes; Therefore theſe are to make publick Intimation, that all Proteſtant Burgeſſes of the ſaid Burgh, produce their Burgeſs-Tickets to the Clerk in the Town-Council-Houſe of the ſaid Burgh, where they ſhall be attended dayly by him and his Servants, from Eight of the Clock in the Mor<g ref="char:EOLhyphen"/>ning till Six of the Clock at Night, and that from and betwixt the Twenty and the Twenty Seventh of this inſtant Month of <hi>February,</hi> to the effect a Roll of their Names and Deſignations may be taken up by way of Alphabet, that every Burges may be called according to the ſaid Rolls upon the foreſaid Day of Election.</p>
+            <closer>
+               <signed>
+                  <hi>J A. ROCHEID</hi> Cls.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:178815:2"/>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS the Lords and Gentlemen of the Kingdom of <hi>Scotland,</hi> met at <hi>White-Hall,</hi> at Our deſire, to Adviſe Us what is to be done, for Securing the Proteſtant Religion, and Reſto<g ref="char:EOLhyphen"/>ring the Laws and Liberties of that Kingdom, according to Our Decla<g ref="char:EOLhyphen"/>rations, have deſired Us, for the attaining theſe Ends, to call a Meeting of the Eſtates, to be holden at <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> in <hi>March</hi> next.</p>
+            <p>WE being Deſirous to do every Thing that may Tend to the Publick Good and Happineſs of that King<g ref="char:EOLhyphen"/>dom, have Reſolved to call the ſaid Meeting againſt the Fourteenth Day of the ſaid Month of <hi>March</hi> next; and do therefore in purſuance, and according to the Tenor of the ſaid Advice, Require you upon the Receipt of this Our Letter, to make Publick Intimation of the ſame on the firſt Mercat Day at the Croſs of the Royal Bur<g ref="char:EOLhyphen"/>rough of <hi>Edinburgh</hi> in the uſual manner, and to appoint a Day, to be at leaſt Five Days after the ſaid Intimation for the whole Burgeſſes to meet and chuſe their Com<g ref="char:EOLhyphen"/>miſſioners for the ſaid Meeting of the Eſtates at <hi>Edin<g ref="char:EOLhyphen"/>burgh</hi> the ſaid Fourteenth Day of <hi>March,</hi> a Copy of this Our Letter and of your Intimation, containing the Day of Election to be left affixt on the ſaid Croſs. The Burgeſſes and Commiſſioners being Proteſtants, with<g ref="char:EOLhyphen"/>out any other Exception or Limitation. And that you Report your Diligence herein to the Convention.</p>
+            <closer>
+               <dateline>Given at St. <hi>James's</hi> 
+                  <date>the fifth day of <hi>Feb.</hi> in the Year of Our Lord 1688/9.</date>
+               </dateline> 
+               <signed>W. H. Prince of Orange.</signed>
+            </closer>
+            <trailer>To the Town-Clerk of the Town of <hi>Edinburgh.</hi>
+            </trailer>
+            <pb facs="tcp:178815:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
